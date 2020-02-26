@@ -1,0 +1,8 @@
+{
+  "name": "joaofiliperocha.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joaofiliperocha/joaofiliperocha.github.io.git",
+  "author": "Joao Filipe Rocha <jfsllrocha@gmail.com>",
+  "license": "MIT"
+}
